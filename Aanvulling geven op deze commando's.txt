@@ -1,0 +1,9 @@
+# Vul in eigen woorden aan wat de commando, die hieronder staan, doen:
+
+#git status = laat zien wat de huidige services zijn van github
+#git init = je kan met deze commando een nieuwe repository aanmaken
+#git diff = hiermee kan je veranderingen doen in je git instellingen
+#git reset = hiermee kan je problemen oplossen zoals errors
+#git rm = met deze command kan je bestanden verwijderen uit een repository
+#git log = dit laat de belangrijke geschiedenis zien
+#git stash = maakt een copy van de goed werkende configuratie zodat je een back up hebt
